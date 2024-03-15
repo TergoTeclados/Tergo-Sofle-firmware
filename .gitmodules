@@ -1,0 +1,6 @@
+[submodule "default-qmk"]
+	path = default-qmk
+	url = git@github.com:TergoTeclados/qmk-firmware.git
+[submodule "vial-qmk"]
+	path = vial-qmk
+	url = git@github.com:TergoTeclados/vial-qmk-firmware.git
